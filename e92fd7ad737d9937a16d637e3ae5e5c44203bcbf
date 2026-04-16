@@ -1,0 +1,38 @@
+README.md
+  human 1,3,5,7,9-19,23-25,35-38,42,44-51,53,55-62,64-71,73,75-78,80-91,93-94,96-139,142,145-212,215-234,236,238-243,245,247-251,253-258,260,262-264
+---
+{
+  "attestations": [
+    {
+      "entries": [
+        {
+          "accepted_lines": 223,
+          "added_lines": 223,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1,3,5,7,9-19,23-25,35-38,42,44-51,53,55-62,64-71,73,75-78,80-91,93-94,96-139,142,145-212,215-234,236,238-243,245,247-251,253-258,260,262-264",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "README.md"
+    }
+  ],
+  "base_commit_sha": "d1b1b9d8742f92d5835dbb20f216aad63b00d44c",
+  "branch": "HEAD",
+  "commit_sha": "e92fd7ad737d9937a16d637e3ae5e5c44203bcbf",
+  "commit_time": "2026-04-16T20:33:16-07:00",
+  "git_ai_version": "1.2.6",
+  "prompts": {
+    "human": {
+      "accepted_lines": 223,
+      "agent_id": null,
+      "human_author": "Udayakumar Dhansingh <udayakumar.dhansingh@harness.io>",
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 223,
+      "total_deletions": 0
+    }
+  },
+  "repo": "https://github.com/udhansingh/fme-workshop.git",
+  "schema_version": "authorship/3.0.0"
+}
