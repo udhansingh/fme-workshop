@@ -1,0 +1,60 @@
+README.md
+  8b8502cd-e037-4eee-973a-7c45f7c4d4f3 1,3,5,7,9-19,23,25,35-38,42,44-51,53,55-62,64-71,73,75-76,78,80-89,91,93-94,96-139,142,145-210,212,215-232,234,236,238-243,245,247-251,253,255-258,260,262-264
+  human 24,77,90,211,233,254
+---
+{
+  "attestations": [
+    {
+      "entries": [
+        {
+          "accepted_lines": 217,
+          "added_lines": 223,
+          "deleted_lines": 38,
+          "hash": "8b8502cd-e037-4eee-973a-7c45f7c4d4f3",
+          "lines": "1,3,5,7,9-19,23,25,35-38,42,44-51,53,55-62,64-71,73,75-76,78,80-89,91,93-94,96-139,142,145-210,212,215-232,234,236,238-243,245,247-251,253,255-258,260,262-264",
+          "overridden_lines": 0
+        },
+        {
+          "accepted_lines": 6,
+          "added_lines": 6,
+          "deleted_lines": 8,
+          "hash": "human",
+          "lines": "24,77,90,211,233,254",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "README.md"
+    }
+  ],
+  "base_commit_sha": "2799f7cb0711e2cd74de22a70dd0d11df374caa2",
+  "branch": "barclays-customizations",
+  "commit_sha": "0288e3789925b6cc13e23f770e4e67b2a9d80363",
+  "commit_time": "2026-04-16T14:07:20-07:00",
+  "git_ai_version": "1.2.6",
+  "prompts": {
+    "8b8502cd-e037-4eee-973a-7c45f7c4d4f3": {
+      "accepted_lines": 217,
+      "agent_id": {
+        "id": "8b8502cd-e037-4eee-973a-7c45f7c4d4f3",
+        "model": "claude-sonnet-4-5-20250929",
+        "tool": "claude"
+      },
+      "human_author": "Udayakumar Dhansingh <udayakumar.dhansingh@harness.io>",
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 223,
+      "total_deletions": 38
+    },
+    "human": {
+      "accepted_lines": 6,
+      "agent_id": null,
+      "human_author": "Udayakumar Dhansingh <udayakumar.dhansingh@harness.io>",
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 6,
+      "total_deletions": 8
+    }
+  },
+  "repo": "https://github.com/dbmartin00/fme-workshop.git",
+  "schema_version": "authorship/3.0.0"
+}
