@@ -1,0 +1,60 @@
+README.md
+  926abba6-f29e-4c9d-8e11-79c38443ea48 31,34,36-37,42-43
+  human 33,35,40-41
+---
+{
+  "attestations": [
+    {
+      "entries": [
+        {
+          "accepted_lines": 6,
+          "added_lines": 6,
+          "deleted_lines": 4,
+          "hash": "926abba6-f29e-4c9d-8e11-79c38443ea48",
+          "lines": "31,34,36-37,42-43",
+          "overridden_lines": 0
+        },
+        {
+          "accepted_lines": 0,
+          "added_lines": 0,
+          "deleted_lines": 4,
+          "hash": "human",
+          "lines": "33,35,40-41",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "README.md"
+    }
+  ],
+  "base_commit_sha": "b644966eb3685528158a30b78139a6ad6a40aeed",
+  "branch": "barclays-customizations",
+  "commit_sha": "1eb720ca3895ef4e7e4e067fd31124d49818e9ba",
+  "commit_time": "2026-04-16T14:52:33-07:00",
+  "git_ai_version": "1.2.6",
+  "prompts": {
+    "926abba6-f29e-4c9d-8e11-79c38443ea48": {
+      "accepted_lines": 6,
+      "agent_id": {
+        "id": "926abba6-f29e-4c9d-8e11-79c38443ea48",
+        "model": "claude-sonnet-4-5-20250929",
+        "tool": "claude"
+      },
+      "human_author": "Udayakumar Dhansingh <udayakumar.dhansingh@harness.io>",
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 6,
+      "total_deletions": 4
+    },
+    "human": {
+      "accepted_lines": 0,
+      "agent_id": null,
+      "human_author": "Udayakumar Dhansingh <udayakumar.dhansingh@harness.io>",
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 0,
+      "total_deletions": 4
+    }
+  },
+  "repo": "https://github.com/udhansingh/fme-workshop.git",
+  "schema_version": "authorship/3.0.0"
+}
