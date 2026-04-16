@@ -1,0 +1,150 @@
+README.md
+  926abba6-f29e-4c9d-8e11-79c38443ea48 129-130,132-133,142,145-146,151,154-155,165,171-173,175,204
+index.js
+  926abba6-f29e-4c9d-8e11-79c38443ea48 25-26,28-41,71
+  human 27
+enigma.html.template
+  human 108-113
+modal_madness.html.template
+  human 49-54
+magic_boxes.html.template
+  human 80-85
+form_follies.html.template
+  human 65-70
+erratum.html.template
+  human 118-123
+---
+{
+  "attestations": [
+    {
+      "entries": [
+        {
+          "accepted_lines": 16,
+          "added_lines": 16,
+          "deleted_lines": 11,
+          "hash": "926abba6-f29e-4c9d-8e11-79c38443ea48",
+          "lines": "129-130,132-133,142,145-146,151,154-155,165,171-173,175,204",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "README.md"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 17,
+          "added_lines": 18,
+          "deleted_lines": 14,
+          "hash": "926abba6-f29e-4c9d-8e11-79c38443ea48",
+          "lines": "25-26,28-41,71",
+          "overridden_lines": 0
+        },
+        {
+          "accepted_lines": 1,
+          "added_lines": 1,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "27",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "index.js"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 0,
+          "added_lines": 0,
+          "deleted_lines": 6,
+          "hash": "human",
+          "lines": "108-113",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "enigma.html.template"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 0,
+          "added_lines": 0,
+          "deleted_lines": 6,
+          "hash": "human",
+          "lines": "49-54",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "modal_madness.html.template"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 0,
+          "added_lines": 0,
+          "deleted_lines": 6,
+          "hash": "human",
+          "lines": "80-85",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "magic_boxes.html.template"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 0,
+          "added_lines": 0,
+          "deleted_lines": 6,
+          "hash": "human",
+          "lines": "65-70",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "form_follies.html.template"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 0,
+          "added_lines": 0,
+          "deleted_lines": 6,
+          "hash": "human",
+          "lines": "118-123",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "erratum.html.template"
+    }
+  ],
+  "base_commit_sha": "a2f52d70fa1e31886083c66457a66a53036b3f87",
+  "branch": "barclays-customizations",
+  "commit_sha": "d1074f3ed1a8014b5b61f053064672840771f291",
+  "commit_time": "2026-04-16T14:41:59-07:00",
+  "git_ai_version": "1.2.6",
+  "prompts": {
+    "926abba6-f29e-4c9d-8e11-79c38443ea48": {
+      "accepted_lines": 33,
+      "agent_id": {
+        "id": "926abba6-f29e-4c9d-8e11-79c38443ea48",
+        "model": "claude-sonnet-4-5-20250929",
+        "tool": "claude"
+      },
+      "human_author": "Udayakumar Dhansingh <udayakumar.dhansingh@harness.io>",
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 34,
+      "total_deletions": 25
+    },
+    "human": {
+      "accepted_lines": 1,
+      "agent_id": null,
+      "human_author": "Udayakumar Dhansingh <udayakumar.dhansingh@harness.io>",
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 1,
+      "total_deletions": 30
+    }
+  },
+  "repo": "https://github.com/udhansingh/fme-workshop.git",
+  "schema_version": "authorship/3.0.0"
+}
