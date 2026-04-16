@@ -1,0 +1,138 @@
+form_follies.html.template
+  926abba6-f29e-4c9d-8e11-79c38443ea48 1-2,6,12,40-43,45-56,61-72,74,76-79,81-83,86-90,94,98,102,106-107,109-115,117,120,124-192,194
+modal_madness.html.template
+  926abba6-f29e-4c9d-8e11-79c38443ea48 1-2,7,10,17,21,25-35,37-40,42-44,49-54,60,62-64,66,68,71,75-76,87,92,97,101-103,105,107,116,119
+  human 12,36
+magic_boxes.html.template
+  926abba6-f29e-4c9d-8e11-79c38443ea48 1-2,7-107,112,114,116,118-121,123,125-136,138-139,142-143,145-147,149-154,156-159,161-162,164-165,167-169,171-174,176-180,182,184,186,189-191,194-205
+erratum.html.template
+  926abba6-f29e-4c9d-8e11-79c38443ea48 1-2,4-5,7-156,159-161,163-168,170-187,189-247,251,253-255
+  human 162,256
+enigma.html.template
+  926abba6-f29e-4c9d-8e11-79c38443ea48 1-2,4-5,7-14,16-23,25-27,29-32,34-37,39-49,51-150,153-162,164-181,183-239,241,245,247-249
+  human 15,24,28,33,38,50,240,250
+---
+{
+  "attestations": [
+    {
+      "entries": [
+        {
+          "accepted_lines": 129,
+          "added_lines": 132,
+          "deleted_lines": 119,
+          "hash": "926abba6-f29e-4c9d-8e11-79c38443ea48",
+          "lines": "1-2,6,12,40-43,45-56,61-72,74,76-79,81-83,86-90,94,98,102,106-107,109-115,117,120,124-192,194",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "form_follies.html.template"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 49,
+          "added_lines": 50,
+          "deleted_lines": 45,
+          "hash": "926abba6-f29e-4c9d-8e11-79c38443ea48",
+          "lines": "1-2,7,10,17,21,25-35,37-40,42-44,49-54,60,62-64,66,68,71,75-76,87,92,97,101-103,105,107,116,119",
+          "overridden_lines": 0
+        },
+        {
+          "accepted_lines": 2,
+          "added_lines": 2,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "12,36",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "modal_madness.html.template"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 174,
+          "added_lines": 179,
+          "deleted_lines": 162,
+          "hash": "926abba6-f29e-4c9d-8e11-79c38443ea48",
+          "lines": "1-2,7-107,112,114,116,118-121,123,125-136,138-139,142-143,145-147,149-154,156-159,161-162,164-165,167-169,171-174,176-180,182,184,186,189-191,194-205",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "magic_boxes.html.template"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 244,
+          "added_lines": 245,
+          "deleted_lines": 221,
+          "hash": "926abba6-f29e-4c9d-8e11-79c38443ea48",
+          "lines": "1-2,4-5,7-156,159-161,163-168,170-187,189-247,251,253-255",
+          "overridden_lines": 0
+        },
+        {
+          "accepted_lines": 2,
+          "added_lines": 2,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "162,256",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "erratum.html.template"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 232,
+          "added_lines": 232,
+          "deleted_lines": 212,
+          "hash": "926abba6-f29e-4c9d-8e11-79c38443ea48",
+          "lines": "1-2,4-5,7-14,16-23,25-27,29-32,34-37,39-49,51-150,153-162,164-181,183-239,241,245,247-249",
+          "overridden_lines": 0
+        },
+        {
+          "accepted_lines": 8,
+          "added_lines": 8,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "15,24,28,33,38,50,240,250",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "enigma.html.template"
+    }
+  ],
+  "base_commit_sha": "0288e3789925b6cc13e23f770e4e67b2a9d80363",
+  "branch": "barclays-customizations",
+  "commit_sha": "a2f52d70fa1e31886083c66457a66a53036b3f87",
+  "commit_time": "2026-04-16T14:36:04-07:00",
+  "git_ai_version": "1.2.6",
+  "prompts": {
+    "926abba6-f29e-4c9d-8e11-79c38443ea48": {
+      "accepted_lines": 828,
+      "agent_id": {
+        "id": "926abba6-f29e-4c9d-8e11-79c38443ea48",
+        "model": "claude-sonnet-4-5-20250929",
+        "tool": "claude"
+      },
+      "human_author": "Udayakumar Dhansingh <udayakumar.dhansingh@harness.io>",
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 838,
+      "total_deletions": 759
+    },
+    "human": {
+      "accepted_lines": 12,
+      "agent_id": null,
+      "human_author": "Udayakumar Dhansingh <udayakumar.dhansingh@harness.io>",
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 12,
+      "total_deletions": 0
+    }
+  },
+  "repo": "https://github.com/udhansingh/fme-workshop.git",
+  "schema_version": "authorship/3.0.0"
+}
