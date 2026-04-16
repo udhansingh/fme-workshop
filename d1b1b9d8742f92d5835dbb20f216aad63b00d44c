@@ -1,0 +1,113 @@
+serve.js
+  human 1-157
+.gitignore
+  human 1-21
+config.sample
+  human 6-11
+package-lock.json
+  human 8
+index.js
+  human 9-66,69-100,106,112,116-139,141-143,148,156,159,163,172,175,178-201,203-207,209-210,238-241,243-245,247-252,255-265,269-278,280-284,290-304,306-307,309,313-314,318-319,322-326,330,332-342,344-349,351,354,364-365,367-377,379-380,384-394,398-407,419,424,426,428,430-431,437,440,443-444,448,452,454-455,460,472-473,475,477-479,481-486,492-523,527-562,564,568-575,577,582,586-595,597-614,616-617,619-620,625,628-631,633,642-648,650-651,653,656-665,667-670,673-674,678-680
+README.md
+  human 15,21-25,29,31-37,41-42,44-65
+---
+{
+  "attestations": [
+    {
+      "entries": [
+        {
+          "accepted_lines": 157,
+          "added_lines": 157,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-157",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "serve.js"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 21,
+          "added_lines": 21,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-21",
+          "overridden_lines": 0
+        }
+      ],
+      "file": ".gitignore"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 6,
+          "added_lines": 6,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "6-11",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "config.sample"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 1,
+          "added_lines": 1,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "8",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "package-lock.json"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 451,
+          "added_lines": 451,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "9-66,69-100,106,112,116-139,141-143,148,156,159,163,172,175,178-201,203-207,209-210,238-241,243-245,247-252,255-265,269-278,280-284,290-304,306-307,309,313-314,318-319,322-326,330,332-342,344-349,351,354,364-365,367-377,379-380,384-394,398-407,419,424,426,428,430-431,437,440,443-444,448,452,454-455,460,472-473,475,477-479,481-486,492-523,527-562,564,568-575,577,582,586-595,597-614,616-617,619-620,625,628-631,633,642-648,650-651,653,656-665,667-670,673-674,678-680",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "index.js"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 38,
+          "added_lines": 38,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "15,21-25,29,31-37,41-42,44-65",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "README.md"
+    }
+  ],
+  "base_commit_sha": "0aae81ae4b89ac14c2d2de745759bf4f6b1a34af",
+  "branch": "HEAD",
+  "commit_sha": "d1b1b9d8742f92d5835dbb20f216aad63b00d44c",
+  "commit_time": "2026-04-16T20:33:03-07:00",
+  "git_ai_version": "1.2.6",
+  "prompts": {
+    "human": {
+      "accepted_lines": 674,
+      "agent_id": null,
+      "human_author": "Udayakumar Dhansingh <udayakumar.dhansingh@harness.io>",
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 674,
+      "total_deletions": 0
+    }
+  },
+  "repo": "https://github.com/udhansingh/fme-workshop.git",
+  "schema_version": "authorship/3.0.0"
+}
