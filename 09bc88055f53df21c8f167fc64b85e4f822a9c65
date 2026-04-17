@@ -1,0 +1,128 @@
+.gitignore
+  human 3-4
+.env.barclays
+  human 1-9
+index.js
+  human 2
+package.json
+  human 13
+.env.example
+  human 1-20
+package-lock.json
+  human 12,67-78,414-418
+README.md
+  human 25-45,147-150,152,154-159,161,164-168,170-172
+---
+{
+  "attestations": [
+    {
+      "entries": [
+        {
+          "accepted_lines": 2,
+          "added_lines": 2,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "3-4",
+          "overridden_lines": 0
+        }
+      ],
+      "file": ".gitignore"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 9,
+          "added_lines": 9,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-9",
+          "overridden_lines": 0
+        }
+      ],
+      "file": ".env.barclays"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 1,
+          "added_lines": 1,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "2",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "index.js"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 1,
+          "added_lines": 1,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "13",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "package.json"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 20,
+          "added_lines": 20,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-20",
+          "overridden_lines": 0
+        }
+      ],
+      "file": ".env.example"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 18,
+          "added_lines": 18,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "12,67-78,414-418",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "package-lock.json"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 41,
+          "added_lines": 41,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "25-45,147-150,152,154-159,161,164-168,170-172",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "README.md"
+    }
+  ],
+  "base_commit_sha": "fb9bbf4aa369edb4291829b37d91caabf3b3be02",
+  "branch": "HEAD",
+  "commit_sha": "09bc88055f53df21c8f167fc64b85e4f822a9c65",
+  "commit_time": "2026-04-16T20:33:48-07:00",
+  "git_ai_version": "1.2.6",
+  "prompts": {
+    "human": {
+      "accepted_lines": 92,
+      "agent_id": null,
+      "human_author": "Udayakumar Dhansingh <udayakumar.dhansingh@harness.io>",
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 92,
+      "total_deletions": 0
+    }
+  },
+  "repo": "https://github.com/udhansingh/fme-workshop.git",
+  "schema_version": "authorship/3.0.0"
+}
