@@ -1,0 +1,98 @@
+form_follies.html.template
+  human 1-2,6,12,40-43,45-56,61-72,74,76-79,81-83,86-90,94,98,102,106-107,109-115,117,120,124-192,194
+magic_boxes.html.template
+  human 1-2,7-107,112,114,116,118-121,123,125-136,138-139,142-143,145-147,149-154,156-159,161-162,164-165,167-169,171-174,176-180,182,184,186,189-191,194-205
+enigma.html.template
+  human 1-2,4-5,7-150,153-162,164-181,183-241,245,247-250
+erratum.html.template
+  human 1-2,4-5,7-156,159-168,170-187,189-247,251,253-256
+modal_madness.html.template
+  human 1-2,7,10,12,17,21,25-40,42-44,49-54,60,62-64,66,68,71,75-76,87,92,97,101-103,105,107,116,119
+---
+{
+  "attestations": [
+    {
+      "entries": [
+        {
+          "accepted_lines": 129,
+          "added_lines": 129,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-2,6,12,40-43,45-56,61-72,74,76-79,81-83,86-90,94,98,102,106-107,109-115,117,120,124-192,194",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "form_follies.html.template"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 174,
+          "added_lines": 174,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-2,7-107,112,114,116,118-121,123,125-136,138-139,142-143,145-147,149-154,156-159,161-162,164-165,167-169,171-174,176-180,182,184,186,189-191,194-205",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "magic_boxes.html.template"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 240,
+          "added_lines": 240,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-2,4-5,7-150,153-162,164-181,183-241,245,247-250",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "enigma.html.template"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 246,
+          "added_lines": 246,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-2,4-5,7-156,159-168,170-187,189-247,251,253-256",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "erratum.html.template"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 51,
+          "added_lines": 51,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-2,7,10,12,17,21,25-40,42-44,49-54,60,62-64,66,68,71,75-76,87,92,97,101-103,105,107,116,119",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "modal_madness.html.template"
+    }
+  ],
+  "base_commit_sha": "e92fd7ad737d9937a16d637e3ae5e5c44203bcbf",
+  "branch": "HEAD",
+  "commit_sha": "0f26873e783f3b59dc6a1318c131b4f7170fdb8d",
+  "commit_time": "2026-04-16T20:33:23-07:00",
+  "git_ai_version": "1.2.6",
+  "prompts": {
+    "human": {
+      "accepted_lines": 840,
+      "agent_id": null,
+      "human_author": "Udayakumar Dhansingh <udayakumar.dhansingh@harness.io>",
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 840,
+      "total_deletions": 0
+    }
+  },
+  "repo": "https://github.com/udhansingh/fme-workshop.git",
+  "schema_version": "authorship/3.0.0"
+}
